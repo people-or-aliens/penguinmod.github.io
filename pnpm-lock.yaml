@@ -35,7 +35,7 @@ specifiers:
   get-float-time-domain-data: 0.1.0
   get-user-media-promise: 1.1.4
   gh-pages: 3.2.3
-  gh-pages-webpack-plugin: github:FreshPenguin112/gh-pages-webpack-plugin
+  gh-pages-webpack-plugin: https://github.com/FreshPenguin112/gh-pages-webpack-plugin
   html-webpack-plugin: ^4.5.2
   immutable: 3.8.2
   intl: 1.2.5
@@ -81,19 +81,19 @@ specifiers:
   redux-mock-store: 1.5.3
   redux-throttle: 0.1.1
   rimraf: 2.7.1
-  scratch-audio: github:TurboWarp/scratch-audio#develop
-  scratch-blocks: github:people-or-aliens/PenguinMod-Blocks#develop-builds
-  scratch-paint: github:TurboWarp/scratch-paint#develop
-  scratch-render: github:PenguinMod/PenguinMod-Render#develop
+  scratch-audio: https://github.com/TurboWarp/scratch-audio#develop
+  scratch-blocks: https://github.com/people-or-aliens/PenguinMod-Blocks#develop-builds
+  scratch-paint: https://github.com/TurboWarp/scratch-paint#develop
+  scratch-render: https://github.com/PenguinMod/PenguinMod-Render#develop
   scratch-render-fonts: 1.0.0-prerelease.20210401210003
-  scratch-storage: github:TurboWarp/scratch-storage#develop
-  scratch-svg-renderer: github:TurboWarp/scratch-svg-renderer#develop
-  scratch-vm: github:people-or-aliens/PenguinMod-Vm#develop
+  scratch-storage: https://github.com/TurboWarp/scratch-storage#develop
+  scratch-svg-renderer: https://github.com/TurboWarp/scratch-svg-renderer#develop
+  scratch-vm: https://github.com/people-or-aliens/PenguinMod-Vm#develop
   selenium-webdriver: 3.6.0
   startaudiocontext: 1.2.1
   style-loader: ^0.23.1
   text-encoding: 0.7.0
-  theia: github:FreshPenguin112/theia-pnpm#master
+  theia: https://github.com/FreshPenguin112/theia-pnpm#master
   to-style: 1.3.3
   uglifyjs-webpack-plugin: 1.3.0
   url-loader: ^4.1.1
