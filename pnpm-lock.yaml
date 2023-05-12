@@ -82,7 +82,7 @@ specifiers:
   redux-throttle: 0.1.1
   rimraf: 2.7.1
   scratch-audio: github:TurboWarp/scratch-audio#develop
-  scratch-blocks: github:PenguinMod/PenguinMod-Blocks#develop-builds
+  scratch-blocks: github:people-or-aliens/PenguinMod-Blocks#develop-builds
   scratch-paint: github:TurboWarp/scratch-paint#develop
   scratch-render: github:PenguinMod/PenguinMod-Render#develop
   scratch-render-fonts: 1.0.0-prerelease.20210401210003
@@ -157,7 +157,7 @@ dependencies:
   redux: 3.7.2
   redux-throttle: 0.1.1
   scratch-audio: github.com/TurboWarp/scratch-audio/30e31c4c5ea4b1c85fe4d579c7fef847fe64ff7b
-  scratch-blocks: github.com/PenguinMod/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7
+  scratch-blocks: github.com/people-or-aliens/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7
   scratch-paint: github.com/TurboWarp/scratch-paint/b99d6e0f23d8e7a1d68d279e6af4c1da693ede31_6k6rspeql5cezdcqbrutshycvq
   scratch-render: github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_jgmwvpsb5yiknzfs7zehpymxpy
   scratch-render-fonts: 1.0.0-prerelease.20210401210003
@@ -10940,8 +10940,8 @@ packages:
       yargs: 3.32.0
     dev: false
 
-  github.com/PenguinMod/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Blocks/tar.gz/5a2f22355274da8a07e3ccb556fdb4d4362eabb7}
+  github.com/people-or-aliens/PenguinMod-Blocks/5a2f22355274da8a07e3ccb556fdb4d4362eabb7:
+    resolution: {tarball: https://codeload.github.com/people-or-aliens/PenguinMod-Blocks/tar.gz/5a2f22355274da8a07e3ccb556fdb4d4362eabb7}
     name: scratch-blocks
     version: 0.1.0
     dev: false
