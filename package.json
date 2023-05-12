@@ -25,7 +25,7 @@
   "homepage": "https://github.com/LLK/scratch-gui#readme",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LLK/scratch-gui.git"
+    "url": "git+https://github.com/LLK/scratch-gui.git"
   },
   "dependencies": {
     "@turbowarp/scratch-l10n": "^3.999.20221220224553",
