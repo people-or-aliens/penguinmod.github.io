@@ -5003,7 +5003,7 @@
     "assert-plus" "^1.0.0"
 
 "gh-pages-webpack-plugin@github:FreshPenguin112/gh-pages-webpack-plugin":
-  "resolved" "git+ssh://git@github.com/FreshPenguin112/gh-pages-webpack-plugin.git#af8291f79f5e90f62c4f312d1fc5e4a8a2aec5b0"
+  "resolved" "git+https://github.com/FreshPenguin112/gh-pages-webpack-plugin.git#af8291f79f5e90f62c4f312d1fc5e4a8a2aec5b0"
   "version" "1.0.2"
   dependencies:
     "gh-pages" "^1.0.0"
@@ -9562,7 +9562,7 @@
     "ajv-keywords" "^3.5.2"
 
 "scratch-audio@github:TurboWarp/scratch-audio#develop":
-  "resolved" "git+ssh://git@github.com/TurboWarp/scratch-audio.git#30e31c4c5ea4b1c85fe4d579c7fef847fe64ff7b"
+  "resolved" "git+https://github.com/TurboWarp/scratch-audio.git#30e31c4c5ea4b1c85fe4d579c7fef847fe64ff7b"
   "version" "0.1.0"
   dependencies:
     "audio-context" "1.0.1"
@@ -9570,7 +9570,7 @@
     "startaudiocontext" "1.2.1"
 
 "scratch-blocks@github:PenguinMod/PenguinMod-Blocks#develop-builds":
-  "resolved" "git+ssh://git@github.com/PenguinMod/PenguinMod-Blocks.git#220a83e6f35357065df29b5eb6d10308f41a4c0b"
+  "resolved" "git+https://github.com/PenguinMod/PenguinMod-Blocks.git#220a83e6f35357065df29b5eb6d10308f41a4c0b"
   "version" "0.1.0"
 
 "scratch-paint@file:../scratch-paint":
@@ -9607,7 +9607,7 @@
     "twgl.js" "4.4.0"
 
 "scratch-storage@github:PenguinMod/PenguinMod-Storage#develop":
-  "resolved" "git+ssh://git@github.com/PenguinMod/PenguinMod-Storage.git#f74a1403ad50b7aff0908bd36d1aef1f93a01f77"
+  "resolved" "git+https://github.com/PenguinMod/PenguinMod-Storage.git#f74a1403ad50b7aff0908bd36d1aef1f93a01f77"
   "version" "0.0.0-development"
   dependencies:
     "arraybuffer-loader" "^1.0.3"
@@ -9618,7 +9618,7 @@
     "worker-loader" "^2.0.0"
 
 "scratch-svg-renderer@github:TurboWarp/scratch-svg-renderer#develop":
-  "resolved" "git+ssh://git@github.com/TurboWarp/scratch-svg-renderer.git#3aaf933b19b55d632b6319cb05ab276528b9964d"
+  "resolved" "git+https://github.com/TurboWarp/scratch-svg-renderer.git#3aaf933b19b55d632b6319cb05ab276528b9964d"
   "version" "0.2.0"
   dependencies:
     "base64-js" "1.2.1"
@@ -10545,7 +10545,7 @@
   "version" "0.2.0"
 
 "theia@github:FreshPenguin112/theia-pnpm#master":
-  "resolved" "git+ssh://git@github.com/FreshPenguin112/theia-pnpm.git#13571e769ea006f4061f0eaf316cf3c7d214bad6"
+  "resolved" "git+https://github.com/FreshPenguin112/theia-pnpm.git#13571e769ea006f4061f0eaf316cf3c7d214bad6"
   "version" "2.1.2"
   dependencies:
     "chalk" "^1.0.0"
